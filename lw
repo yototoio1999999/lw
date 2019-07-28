@@ -1,0 +1,17 @@
+<html>
+<head>
+<style>
+div{
+width:600px;
+height:600px;
+background-image:url("https://imagizer.imageshack.com/v2/xq90/921/YUWast.jpg"),url("https://imagizer.imageshack.com/v2/xq90/922/AT8yKO.jpg");
+background-size:600px,600px;
+background-repeat:no-repeat,repeate;
+background-blend-mode:overlay;
+}
+</style>
+</head>
+<body>
+<div id="div"></div>
+</body>
+</html>
